@@ -1,0 +1,17 @@
+.float{
+	margin-left: 50px;
+}
+
+.item{
+	margin: 5px;
+	float: left;
+}
+
+#footer{
+	alignment: center;
+	margin-left: 150px;
+	margin-top: 50px;
+	background-color: gray;
+	height: 50px;
+	width: 1000px;
+}
